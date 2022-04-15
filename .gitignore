@@ -7,7 +7,4 @@ typechain
 #Hardhat files
 cache
 artifacts
-
-#frontend
-
-.next
+typechain-types
